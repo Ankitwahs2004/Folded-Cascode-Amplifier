@@ -1,6 +1,5 @@
-# Folded-Cascode-Amplifier
 <h1>Design of Folded Cascode Amplifier for Analog ASICs</h1>
-Project Overview
+<h2>Project Overview</h2>
 This project focuses on the design and optimization of a folded cascode amplifier at the transistor level, specifically tailored for ASICs. The primary goals were to achieve a bandwidth of 100 MHz and a gain exceeding 70 dB. This design has been meticulously optimized using Tanner EDA simulations.
 
 Key Features
